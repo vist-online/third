@@ -1,0 +1,1 @@
+Привет! <?= htmlentities($_SESSION['name']) ?> <?= htmlentities($_SESSION['last_name']) ?> <?= htmlentities($_SESSION['first_name']) ?>.
